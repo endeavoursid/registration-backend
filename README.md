@@ -2,7 +2,7 @@
 
 # 📄 README.md — **Backend Repository**
 
-```md
+
 # Registration Backend
 
 This repository contains the **backend API** for the Registration System.
